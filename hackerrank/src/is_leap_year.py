@@ -14,4 +14,4 @@ def is_leap(year):
 
 if __name__ == '__main__':
     a = int(input())
-    b = int(input())
+    print(is_leap(a))
