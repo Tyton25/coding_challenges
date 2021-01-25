@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe376fac-9021-4f64-b48b-ed7bd4a2a78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arithmetic_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/evenodd.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/evenodd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/is_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/is_leap_year.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +26,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arithmetic_operators.py">
+        <entry file="file://$PROJECT_DIR$/src/is_leap_year.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="187">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -55,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/evenodd.py" />
         <option value="$PROJECT_DIR$/src/evenodd.py" />
         <option value="$PROJECT_DIR$/src/arithmetic_operators.py" />
+        <option value="$PROJECT_DIR$/src/is_leap_year.py" />
       </list>
     </option>
   </component>
@@ -146,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611533619474</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adds is_leap_year.py and relocates files.">
+      <created>1611551740074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611551740074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -173,6 +181,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adds is_leap_year.py and relocates files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds is_leap_year.py and relocates files." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/evenodd.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -184,10 +196,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arithmetic_operators.py">
+    <entry file="file://$PROJECT_DIR$/src/is_leap_year.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
